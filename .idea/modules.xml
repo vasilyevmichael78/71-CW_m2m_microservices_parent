@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/71-CW_m2m_dto/71-CW_m2m_dto.iml" filepath="$PROJECT_DIR$/71-CW_m2m_dto/71-CW_m2m_dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71-CW_m2m_microservices_parent.iml" filepath="$PROJECT_DIR$/71-CW_m2m_microservices_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SesnorsBackOffice/SesnorsBackOffice.iml" filepath="$PROJECT_DIR$/SesnorsBackOffice/SesnorsBackOffice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abnormal-processor/abnormal-processor.iml" filepath="$PROJECT_DIR$/abnormal-processor/abnormal-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accounting-api/accounting-api.iml" filepath="$PROJECT_DIR$/accounting-api/accounting-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accounting-service/accounting-service.iml" filepath="$PROJECT_DIR$/accounting-service/accounting-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/average-reducer/average-reducer.iml" filepath="$PROJECT_DIR$/average-reducer/average-reducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-library/common-library.iml" filepath="$PROJECT_DIR$/common-library/common-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configuration-service/configuration-service.iml" filepath="$PROJECT_DIR$/configuration-service/configuration-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-writer/db-writer.iml" filepath="$PROJECT_DIR$/db-writer/db-writer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispatcher-service/dispatcher-service.iml" filepath="$PROJECT_DIR$/dispatcher-service/dispatcher-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2m-delay-measure/m2m-delay-measure.iml" filepath="$PROJECT_DIR$/m2m-delay-measure/m2m-delay-measure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m2m-generator/m2m-generator.iml" filepath="$PROJECT_DIR$/m2m-generator/m2m-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-library/security-library.iml" filepath="$PROJECT_DIR$/security-library/security-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-api/swagger-api.iml" filepath="$PROJECT_DIR$/swagger-api/swagger-api.iml" />
+    </modules>
+  </component>
+</project>

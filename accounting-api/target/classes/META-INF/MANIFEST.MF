@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 11.0.7
+Implementation-Title: accounting-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: telran.webservices
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/63-CW_WebServicesParent/accounting-api
+Created-By: Maven Integration for Eclipse
+

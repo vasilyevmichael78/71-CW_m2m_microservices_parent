@@ -1,0 +1,6 @@
+telran\m2m\dto\SensorsResponse.class
+telran\m2m\dto\AverageSensorData.class
+telran\m2m\dto\Configuration.class
+telran\m2m\dto\MinMaxAvg.class
+telran\m2m\dto\Sensor.class
+telran\m2m\dto\SensorsResponseCode.class

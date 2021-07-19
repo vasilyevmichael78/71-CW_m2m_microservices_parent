@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configuration-service" />
+        <module name="m2m-delay-measure" />
+        <module name="swagger-api" />
+        <module name="security-library" />
+        <module name="SesnorsBackOffice" />
+        <module name="common-library" />
+        <module name="db-writer" />
+        <module name="average-reducer" />
+        <module name="m2m-generator" />
+        <module name="dispatcher-service" />
+        <module name="abnormal-processor" />
+        <module name="accounting-api" />
+        <module name="accounting-service" />
+        <module name="71-CW_m2m_dto" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="71-CW_m2m_dto" target="8" />
+      <module name="71-CW_m2m_microservices_parent" target="1.8" />
+      <module name="abnormal-processor" target="8" />
+      <module name="accounting-api" target="8" />
+      <module name="accounting-service" target="1.8" />
+      <module name="average-reducer" target="8" />
+      <module name="common-library" target="1.8" />
+      <module name="configuration-service" target="8" />
+      <module name="db-writer" target="8" />
+      <module name="db-writer-service" target="8" />
+      <module name="dispatcher-service" target="8" />
+      <module name="m2m-delay-measure" target="1.8" />
+      <module name="m2m-generator" target="8" />
+      <module name="security-library" target="1.8" />
+      <module name="SesnorsBackOffice" target="8" />
+      <module name="swagger-api" target="8" />
+      <module name="swagger-library" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="71-CW_m2m_dto" options="" />
+      <module name="SesnorsBackOffice" options="-parameters" />
+      <module name="abnormal-processor" options="-parameters" />
+      <module name="accounting-api" options="-parameters" />
+      <module name="accounting-service" options="-parameters" />
+      <module name="average-reducer" options="-parameters" />
+      <module name="common-library" options="-parameters" />
+      <module name="configuration-service" options="-parameters" />
+      <module name="db-writer" options="-parameters" />
+      <module name="db-writer-service" options="-parameters" />
+      <module name="dispatcher-service" options="-parameters" />
+      <module name="m2m-delay-measure" options="-parameters" />
+      <module name="m2m-generator" options="-parameters" />
+      <module name="security-library" options="-parameters" />
+      <module name="swagger-api" options="-parameters" />
+      <module name="swagger-library" options="-parameters" />
+    </option>
+  </component>
+</project>

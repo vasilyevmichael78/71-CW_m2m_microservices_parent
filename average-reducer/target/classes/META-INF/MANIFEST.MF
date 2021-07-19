@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 11.0.8
+Implementation-Title: average-reducer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: telran.m2m
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/71-CW_m2m_microservices_parent/average-reducer
+Created-By: Maven Integration for Eclipse
+

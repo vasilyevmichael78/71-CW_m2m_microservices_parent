@@ -1,0 +1,6 @@
+telran\m2m\service\SensorsService.class
+telran\m2m\repository\SensorsRepository.class
+telran\m2m\controller\SensorsController.class
+telran\m2m\interfaces\SensorsRestApi.class
+telran\m2m\interfaces\ISensors.class
+telran\m2m\SensorsQueriesAppl.class

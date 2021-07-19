@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 11.0.7
+Implementation-Title: security-library
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: telran.webservices
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/63-CW_WebServicesParent/security-library
+Created-By: Maven Integration for Eclipse
+
